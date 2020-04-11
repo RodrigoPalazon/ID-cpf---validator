@@ -5,7 +5,7 @@ Citizen Registration Validator (for register Brazilian system)
 CPF is a register citizen number in Brazil and is necessary 
 some math rules to the CPF number be considered valid.
 
-    <h3> Rules:</h3>
+    Rules:
           1. The CPF number must have 11 digits.
           2. There's a specific calc math to validate the last two digits
           3. A CPF number with all digits equal is considered a "famous invalid CPF number"
